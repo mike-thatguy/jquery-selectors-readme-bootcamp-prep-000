@@ -9,7 +9,7 @@ function ninjaBabySelector() {
   return $('#baby-ninja');
 }
 function divSelector() {
-  return $('p');
+  return $('div .pics');
 }
 function firstListItem() {
   return $('p');
